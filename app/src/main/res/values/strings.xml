@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TheCocktailApp</string>
+    <string name="main">Главная</string>
+    <string name="favourite">Избранные</string>
+    <string name="stories">История</string>
+    <string name="name">Name:</string>
+    <string name="id">Id:</string>
+    <string name="category">Category:</string>
+    <string name="type">Type:</string>
+    <string name="ingredient">Ingredient</string>
+    <string name="ingredient1">Ingredient1</string>
+    <string name="ingredient2">Ingredient2</string>
+    <string name="ingredient3">Ingredient3</string>
+    <string name="ingredient4">Ingredient4</string>
+    <string name="ingredient5">Ingredient5</string>
+    <string name="ingredient6">Ingredient6</string>
+</resources>

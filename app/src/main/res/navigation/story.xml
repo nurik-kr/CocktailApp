@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/story"
+    app:startDestination="@id/storyCocktailFragment">
+
+    <fragment
+        android:id="@+id/storyCocktailFragment"
+        android:name="kg.nurik.thecocktailapp.ui.bottomNav.story.StoryCocktailFragment"
+        android:label="StoryCocktailFragment"
+        tools:layout="@layout/fragment_story_cocktail" />
+</navigation>
